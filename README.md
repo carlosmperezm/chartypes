@@ -1,7 +1,7 @@
-# Welcome to My Profile!
+# Hello 👋🏻 I am Carlos! 
 
 ## About Me
-- Born and raised in Cuba, I am a diligent and zealous computer specialist passionate about leveraging technology to solve problems.
+- Born and raised in Cuba 🇨🇺, I am a diligent and zealous computer specialist passionate about leveraging technology to solve problems.
 - Currently seeking opportunities to further expand and develop my coding knowledge and competencies in the Computer Science field.
 - A resourceful developer with a wide range of proficiency in multiple software tools, specializing in backend development, data science, scripting, and automation.
   
@@ -13,12 +13,14 @@
 - **Collaborative Spirit**: I thrive in collaborative environments and enjoy working alongside my team to deliver outstanding products and solutions.
 
 ## Skills
-- Backend Development
-- Data Science
-- Scripting
-- Automation
-- Team Collaboration
-- Problem Solving
+- Java ☕️
+- Python 🐍
+- Backend Development 💻
+- Data Science 🔬
+- Scripting 👨🏼‍💻
+- Automation 🦾
+- Team Collaboration 👏🏻
+- Problem Solving 🧠
 
 ## Contact Me
 - **Email**: 📫 [carlosmperez2901@icloud.com]
