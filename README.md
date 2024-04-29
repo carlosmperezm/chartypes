@@ -23,7 +23,7 @@
 ## Contact Me
 - **Email**: 📫 [carlosmperez2901@icloud.com]
 - **LinkedIn**: [www.linkedin.com/in/carlos-backdev]
-- **GitHub**: [chartypes]
+- **GitHub**: [[chartypes](https://github.com/chartypes)]
 
 Let's connect and discuss how we can work together to achieve our goals!
 
